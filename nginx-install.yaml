@@ -1,0 +1,3 @@
+- name: installing nginx on apache server
+  apt: name=nginx update_cache=yes state=latest
+  become: true
