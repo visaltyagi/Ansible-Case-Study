@@ -1,0 +1,7 @@
+[apache]
+Slave1 ansible_host=172.31.47.187
+Slave2 ansible_host=172.31.45.194
+
+[nginx]
+Slave3 ansible_host=172.31.38.118
+Slave4 ansible_host=172.31.32.77
