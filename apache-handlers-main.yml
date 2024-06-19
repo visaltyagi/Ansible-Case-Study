@@ -1,3 +1,3 @@
-- name: restart the apache server
+- name: restart the apache web server
   service: name=apache2 state=restarted
   become: true
