@@ -1,0 +1,5 @@
+---
+# tasks file for java
+- name: install java on webserver
+  apt: name=openjdk-18-jre-headless state=present
+  become: true
