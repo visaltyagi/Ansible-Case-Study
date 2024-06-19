@@ -16,3 +16,6 @@ Create Two Server Groups &amp; Install Apache on The First Group &amp; NGINX on 
 **Step 6:** Create a “main.yaml” File to Run All The Configuration on Both “Slave” Groups
 
 **Step 7:** Check that “apache” & “nginx” And “Java” is installed on Slaves Group Successfully or Not
+
+![image](https://github.com/visaltyagi/Ansible-Case-Study/assets/107295081/bf96a6f6-c83b-4757-a128-2060e2580f07)
+
